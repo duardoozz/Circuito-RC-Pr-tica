@@ -4,7 +4,11 @@ Este projeto demonstra o comportamento de um circuito RC (Resistor–Capacitor) 
 
 ## TinkerCad
 
-O link a seguir mostra o funcionamento do circuito no **Tinkercad**, incluindo a operação completa do circuito e do **slide switch**:
+A imagem mostra a montagem do circuito incluindo sua operação completa e do **slide switch**.
+
+![Circuito](circuito.png)
+
+O link a seguir mostra o funcionamento do circuito no **Tinkercad**.
 
 🔗 [Veja à simulação no Tinkercad](https://www.tinkercad.com/things/l4P0aHsahoc/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits)
 
